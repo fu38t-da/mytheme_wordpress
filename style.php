@@ -1,0 +1,8 @@
+/*
+Theme Name: Fumiyaのテーマ
+Theme URI:
+Description: NexSeed沖縄の授業で使用
+Version: 1.0
+Author: Fumiya
+Author URI:
+*/
